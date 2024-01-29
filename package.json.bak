@@ -1,7 +1,7 @@
 {
-    "name": "JusticeTechBot",
+    "name": "Cheems-Bot-MD",
     "version": "10.0.0",
-    "description": "Whatsapp Bot By JusticeTech",
+    "description": "Whatsapp Bot By DGXeon",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -13,7 +13,7 @@
         "code": "node main.js",
         "start": "node index.js"
     },
-    "author": "JusticeTech",
+    "author": "DGXeon",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.6.0",
